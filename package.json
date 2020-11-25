@@ -1,0 +1,27 @@
+{
+  "name": "word-testing",
+  "version": "1.0.0",
+  "description": "Just testing creating work docs using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortie23/node-word-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mortie23/node-word-testing/issues"
+  },
+  "homepage": "https://github.com/mortie23/node-word-testing#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "docx": "^5.4.1",
+    "fs": "0.0.1-security",
+    "html-docx-js": "^0.3.1",
+    "jsdom": "^16.4.0",
+    "path": "^0.12.7"
+  }
+}
